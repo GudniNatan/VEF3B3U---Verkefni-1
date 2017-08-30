@@ -1,0 +1,10 @@
+.compass{
+	height: 100%;
+	margin: 0 auto;
+}
+svg{
+	max-height: 100%;
+}
+body, html {
+	height: 100%;
+}
