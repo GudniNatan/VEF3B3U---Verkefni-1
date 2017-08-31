@@ -30,7 +30,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="351.4215"
-     inkscape:cy="367.82696"
+     inkscape:cy="362.81522"
      inkscape:document-units="mm"
      inkscape:current-layer="g3729"
      showgrid="false"
@@ -62,7 +62,7 @@
       <g
          id="g3707"
          style="stroke:#333333;stroke-width:3"
-         transform="translate(16.319723,-31.118831)">
+         transform="translate(13.732592,-30.095521)">
         <path
            id="path3705"
            d="M 52,150 127.799,172.889 150,248 172.861,172.837 248,150 172.861,127.776 150,52 127.8,127.776 Z"
@@ -72,7 +72,7 @@
       <g
          id="g3713"
          style="fill:#333333"
-         transform="translate(16.319723,-31.118831)">
+         transform="translate(13.714309,-30.091682)">
         <path
            id="path3709"
            d="m 52,150 h 98 l -22.201,22.889 z m 98,0 h 98 l -75.298,-22.172 z m 0,0 v 98 l 22.702,-75.111 z m 0,0 V 52 l -22.201,75.828 z"
@@ -104,12 +104,12 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.15789413px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.34539473"
-         x="155.01566"
+         x="153.09341"
          y="14.535285"
          id="text4565"><tspan
            sodipodi:role="line"
            id="tspan4563"
-           x="155.01566"
+           x="153.09341"
            y="14.535285"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.15789413px;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';fill:#d40000;stroke-width:0.34539473">N</tspan></text>
       <flowRoot
@@ -126,34 +126,34 @@
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.15789413px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.34539473"
          x="38.677643"
-         y="129.27289"
+         y="131.21732"
          id="text4565-0"><tspan
            sodipodi:role="line"
            id="tspan4563-7"
            x="38.677643"
-           y="129.27289"
+           y="131.21732"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.15789413px;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';fill:#4d4d4d;stroke-width:0.34539473">W</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.67648697px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.36121342"
          x="257.97787"
-         y="135.55832"
+         y="137.36238"
          id="text4565-1"
          transform="scale(1.0457989,0.95620679)"><tspan
            sodipodi:role="line"
            id="tspan4563-1"
            x="257.97787"
-           y="135.55832"
+           y="137.36238"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.67648697px;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';fill:#4d4d4d;stroke-width:0.36121342">E</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.15789413px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.34539473"
-         x="156.2574"
+         x="153.54675"
          y="247.89935"
          id="text4565-2"><tspan
            sodipodi:role="line"
            id="tspan4563-2"
-           x="156.2574"
+           x="153.54675"
            y="247.89935"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.15789413px;font-family:'MS UI Gothic';-inkscape-font-specification:'MS UI Gothic';fill:#4d4d4d;stroke-width:0.34539473">S</tspan></text>
     </g>

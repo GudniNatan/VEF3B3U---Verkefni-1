@@ -8,3 +8,7 @@ svg{
 body, html {
 	height: 100%;
 }
+
+#svg8{
+	transition: 20ms ease all;
+}
