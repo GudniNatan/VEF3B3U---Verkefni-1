@@ -76,7 +76,7 @@ async function drawLineAnimation(path){
   path.style.strokeDashoffset = pathLength;
   path.style.opacity = 0;
 
-  await sleep(25);
+  await sleep(40);
   path.style.transition = "all 2s ease-in";
 
   path.style.strokeDashoffset = '0';
